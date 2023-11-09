@@ -1,6 +1,3 @@
-
-
-
 ## A Simple Role Permission Management System
 
 <p align="center">
