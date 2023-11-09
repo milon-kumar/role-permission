@@ -1,18 +1,25 @@
-\## A Simple Role Permission Management System
 
-\<p align="center"\> \<a
-href="https://github.com/milon-kumar"\>Github\</a\> \<a
-href="https://milon.ctpbd.com/"\>Portfolio\</a\> \</p\>
+## Role Permission Management System
+### You can use all the features of the website from admin mode. Here you can create roles and manage users. You can define from practice which roles have what permissions This permission will be performed by other users
+### Setup Your Database And Run Prject
+## Admin
 
-\##-------------------------------------------------------
+```
+  Email : admin@mail.com 
+  Pass : admin@mail.com
+```
 
-1\. Setup Your Database And Run Prject
+## Manager
 
-\*\*You can use all the features of the website from admin mode. Here
-you can create roles and manage users. You can define from practice
-which roles have what permissions This permission will be performed by
-other users\*\*
+```
+  Email : manager@mail.com 
+  Pass : manager@mail.com
+```
 
-\#Admin :- Email : admin@mail.com Pass : admin@mail.com \#Manager Email
-: manager@mail.com Pass : manager@mail.com \#Employee Email :
-employee@mail.com Pass : employee@mail.com
+
+## Employee
+
+```
+  Email : employee@mail.com 
+  Pass : employee@mail.com
+```
